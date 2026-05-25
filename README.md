@@ -144,7 +144,6 @@ http://localhost:8080/swagger-ui.html
 # Improvements With More Time
 
 - Streaming responses
-- Multi-provider support
 - Dashboard analytics
 - PII redaction
 - Event-driven ingestion
